@@ -8,6 +8,7 @@
 ## Authors
 * **Konstantinos I. Roumeliotis**
 * **Prof. Nikolaos D. Tselikas**
+* **Prof. Christos Tryfonopoulos**
 
 ## Abstract
 Currently, websites rely heavily on digital marketing, notably search engine optimization (SEO), for success. In the COVID-19 era, hotels have to employ every feasible means to stay afloat despite the bleak business and travel conditions. Many of them have already invested in digital marketing, especially SEO, by applying SEO techniques to their websites to attract more visitors and bookings. This research examines hotels’ websites regarding the SEO techniques they have applied and their impact on web traffic to their websites. During a one-year observation period (February 2021–February 2022), we collected and analyzed web data from 309 top-listed Greek hotels using our own-developed software. By creating and following a specific methodology, we came to valuable conclusions. In addition, we used fuzzy cognitive mapping to develop an exploratory model. From the descriptive analysis and technical SEO perspective, we have concluded that hotels websites’ traffic and, by extension, their long-term viability are inextricably intertwined. Existing and future SEO marketers may benefit from our research’s time-accurate insights on hotel SEO tactics.
