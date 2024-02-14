@@ -2,7 +2,7 @@
 
 ## Published Paper
 * **Journal**: [Digital | An Open Access Journal from MDPI](https://www.mdpi.com/journal/digital)
-* **Title**: Greek Hotels’ Web Traffic: A Comparative Study Based on Search Engine Optimization Techniques and Technologies
+* **Title**: [Greek Hotels’ Web Traffic: A Comparative Study Based on Search Engine Optimization Techniques and Technologies](https://www.mdpi.com/2673-6470/2/3/21)
 * **DOI**: https://doi.org/10.3390/digital2030021
 
 ## Authors
