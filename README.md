@@ -1,6 +1,16 @@
-# SEO Analysis Script with PHP and Web Scraping/Curl Techniques
+# Greek Hotels’ Web Traffic: A Comparative Study Based on Search Engine Optimization Techniques and Technologies
 
-This repository presents an experimental effort conducted for the purpose of a publication in an international journal. The script, built using PHP function programming and web scraping/curl techniques, takes a list of URLs as input, fetches their source code, and performs checks to identify which of the 18 predefined SEO techniques each page follows.
+## Published Paper
+* **Journal**: [Digital | An Open Access Journal from MDPI](https://www.mdpi.com/journal/digital)
+* **Title**: Greek Hotels’ Web Traffic: A Comparative Study Based on Search Engine Optimization Techniques and Technologies
+* **DOI**: https://doi.org/10.3390/digital2030021
+
+## Authors
+* **Konstantinos I. Roumeliotis**
+* **Prof. Nikolaos D. Tselikas**
+
+## Abstract
+Currently, websites rely heavily on digital marketing, notably search engine optimization (SEO), for success. In the COVID-19 era, hotels have to employ every feasible means to stay afloat despite the bleak business and travel conditions. Many of them have already invested in digital marketing, especially SEO, by applying SEO techniques to their websites to attract more visitors and bookings. This research examines hotels’ websites regarding the SEO techniques they have applied and their impact on web traffic to their websites. During a one-year observation period (February 2021–February 2022), we collected and analyzed web data from 309 top-listed Greek hotels using our own-developed software. By creating and following a specific methodology, we came to valuable conclusions. In addition, we used fuzzy cognitive mapping to develop an exploratory model. From the descriptive analysis and technical SEO perspective, we have concluded that hotels websites’ traffic and, by extension, their long-term viability are inextricably intertwined. Existing and future SEO marketers may benefit from our research’s time-accurate insights on hotel SEO tactics.
 
 ## Features
 
